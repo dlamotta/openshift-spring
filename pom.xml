@@ -5,7 +5,7 @@
 	<groupId>com.redhat</groupId>
 	<artifactId>openshift-spring</artifactId>
 	<packaging>jar</packaging>
-	<version>0.2.1</version>
+	<version>0.3.0</version>
 	<name>openshift-spring</name>
 
 	<properties>
